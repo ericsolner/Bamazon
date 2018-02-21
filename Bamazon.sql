@@ -32,4 +32,6 @@ VALUES  ('Purina Dog Treats', 'Pet', 5.75, 450),
 		('Mens Hoodie', 'Clothing', 12.99, 720),
 		('Basketball Shorts', 'Clothing', 12.20, 20),
 		('Purina Cat Chow', 'Pet', 7.25, 157)
-	
+
+
+SELECT * FROM products;
