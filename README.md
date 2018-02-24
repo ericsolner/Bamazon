@@ -1,4 +1,5 @@
 # Bamazon
+![ScreenShot](https://raw.github.com/ericsolner/Bamazon/master/Screenshots/1.png)
 ![List Image](https://github.com/ericsolner/Bamazon/tree/master/Screenshots/1.png)
 After running "NPM install" in the terminal, run "node bamazonCustomer.js"
 
