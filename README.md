@@ -1,3 +1,21 @@
+# Bamazon
+![List Image](https://github.com/RoryTheRoman/bamazon/blob/master/images/productList.png)
+After that, the user is prompted to say whether or not they want to buy or sell an item.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Node.js & MySQL
 
 ## Overview
