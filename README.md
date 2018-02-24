@@ -1,6 +1,25 @@
 # Bamazon
-![List Image](https://github.com/RoryTheRoman/bamazon/blob/master/images/productList.png)
-After that, the user is prompted to say whether or not they want to buy or sell an item.
+![List Image](https://github.com/ericsolner/Bamazon/tree/master/Screenshots/1.png)
+After running "NPM install" in the terminal, run "node bamazonCustomer.js"
+
+![List Image](https://github.com/ericsolner/Bamazon/tree/master/Screenshots/2.png)
+All of the existing inventory will be printed out into the terminal. user will be prompted to type in the ID of the item they want to purchase.
+
+![List Image](https://github.com/ericsolner/Bamazon/tree/master/Screenshots/3.png)
+After typing the ID for the item, the user will be prompted to chose a quantity they want to purchase. After they chose the quantity they will be given a price total.
+
+![List Image](https://github.com/ericsolner/Bamazon/tree/master/Screenshots/4.png)
+![List Image](https://github.com/ericsolner/Bamazon/tree/master/Screenshots/5.png)
+By refreshing the my sql database you will see that item #6 Organic Avocados inventory has been reduced by 23.
+
+![List Image](https://github.com/ericsolner/Bamazon/tree/master/Screenshots/6.png)
+Next run the bamazonManager.js command in the terminal. Used will be prompted with four choices, to view products for sale, to view low inventory, to add to inventory, and to add a new product.
+
+![List Image](https://github.com/ericsolner/Bamazon/tree/master/Screenshots/7.png)
+If used choses to add to inventory, they will be asked which Item Id, and then how many they would like to add.
+
+![List Image](https://github.com/ericsolner/Bamazon/tree/master/Screenshots/8.png)
+After chosing to add 100 organic avocados i refreshed mysql database and the total stock of organic avocados increased by 100. 
 
 
 
